@@ -25,7 +25,7 @@ RegisterNumber: 212223220111
 ```
 ```
 import pandas as pd
-data=pd.read_csv("Salary.csv")
+data=pd.read_csv("C:\Users\admin\Downloads\Salary.csv")
 data.head()
 ```
 ![image](https://github.com/user-attachments/assets/8736c4ba-ac49-4601-ae61-0e582455b62c)
